@@ -101,7 +101,7 @@ link = "https://www.linkedin.com/in/somratpro"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "docs/english"
 weight = 1
 home = "Home"
 # copyright
